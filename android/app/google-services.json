@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "9730300207",
+    "project_id": "task-9811d",
+    "storage_bucket": "task-9811d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9730300207:android:3b3de684a401bbe12d29da",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9730300207-83jgkf4nq6f7bbj85n4hbhgskl66h7ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVs2xeLbyBqf0rwcK70zf97Yt76e7_EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9730300207-83jgkf4nq6f7bbj85n4hbhgskl66h7ah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9730300207-211succem802tt5dr4fkoq1cu8s2msgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoCall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
